@@ -1,0 +1,4 @@
+Memory Management
+https://docs.python.org/3/c-api/memory.html#:~:text=Memory%20management%20in%20Python%20involves,Python%20objects%20and%20data%20structures.&text=The%20Python%20memory%20manager%20thus,bounds%20of%20the%20private%20heap.
+dif btwn list and tuple .why list is slow(bcos 2 blocks for element and index)
+Args vs kwargs

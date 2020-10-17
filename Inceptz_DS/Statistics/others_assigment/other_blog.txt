@@ -1,0 +1,4 @@
+stats
+https://dataepitome.wordpress.com/2020/07/26/example-post/
+https://github.com/JayaLakshman/PythonPractice/blob/master/STATISTICS.pdf
+https://github.com/ThiruMuth/DataScience-Python-Class-Exercises/blob/master/Statistics%20Foundation%20for%20Data%20Science%20Beginners%20-%20Part-1.pdf

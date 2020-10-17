@@ -1,0 +1,36 @@
+univaraite
+standard deviation -- how much the value is deviated from the mean .S = x-mean(x) / n
+variance - Var= S ^2 
+
+Bivariate
+co varaince -Varaition between two varaibles.To find the relation. Bigger value strong relationship
+correlation co-efficient  -range from -1 to 1 .. t = cov(x,y) / (sx*sy)-strength of the relation
+
+SAmpling, Population
+
+Central limit thoerem  - If we takes n sample (more than 30) from  a popultaion and plot the mean of all the selected samples then that will follow a normal distribution. 
+Normal distribution means mean,mode and median are equal and it is a symmetric bell shape.
+Number of sample  = 10000
+Sampling Size = 5 (Number of item in Sample )
+standard error =sd/squareroot(n)
+
+bias 
+non biased 
+Stratifies Sampling  -Diving the poupulation with soem startegecy .group by age for survey
+
+standard deviation
+
+Standard deviation tells you how spread out the data is. It is a measure of how far each observed value is from the mean. In any distribution, about 95% of values will be within 2 standard deviations of the mean.
+
+standard deviation error -it is the sd of the mean of the samples
+If you take enough samples from a population, the means will be arranged into a distribution around the true population mean. The standard deviation of this distribution, i.e. the standard deviation of sample means, is called the standard error.
+
+
+The standard error tells you how accurate the mean of any given sample from that population is likely to be compared to the true population mean. When the standard error increases, i.e. the means are more spread out, it becomes more likely that any given mean is an inaccurate representation of the true population mean.
+
+
+Z score -To find whch region it is false in the nomral distribution  .Deviation from mid point in the bell cueve. % and box plot 
+
+Confidence Intervals
+COnfience Levels
+Margin of error
